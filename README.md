@@ -20,7 +20,9 @@ ArrayList – Dynamic storage for student records
 
 
 Sample output: 
+
 ===== Student Management System =====
+
 1. Add Student
 2. Remove Student
 3. Display Students
@@ -32,6 +34,7 @@ Enter Student Grade: A
  Student added successfully!
 
 ===== Student Management System =====
+
 1. Add Student
 2. Remove Student
 3. Display Students
